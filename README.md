@@ -22,13 +22,13 @@ Aplikasi ini dibuat dengan tujuan untuk **mengambil foto menggunakan kamera pera
 4. **Menampilkan hasil foto yang sudah difilter dengan tampilan yang menarik.**
 
 # Screenshot Hasil
-#Praktikum 1 Kamera
+# Praktikum 1 Kamera
 ![Screenshot aplikasi kamera](assets/kamera.gif)
 
-#Praktikum 2 Filter Carousel
+# Praktikum 2 Filter Carousel
 ![Screenshot aplikasi kamera](assets/photo-filter-carousel.gif)
 
-#Praktikum 3 Menggabungkan Kamera dan Filter Carousel
+# Praktikum 3 Menggabungkan Kamera dan Filter Carousel
 ![Screenshot aplikasi kamera](assets/kamera-dan-photo-filter-carousel.gif)
 
 #### Penjelasan
